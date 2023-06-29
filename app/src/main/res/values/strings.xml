@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ejercicio individual 30</string>
+    <string name="ingresa_un_numero_entero">Ingresa un numero entero</string>
+    <string name="ingresa_un_texto">Ingresa un texto</string>
+    <string name="ingresa_un_numero_decimal">Ingresa un numero decimal</string>
+    <string name="guardar">Guardar</string>
+    <string name="borrar">Borrar</string>
+    <string name="valor_almacenado_1_d">Valor almacenado: %1$d</string>
+    <string name="texto_almacenado_1_s">Texto almacenado: %s</string>
+    <string name="valor_decimal_almacenado_1_s">Valor decimal almacenado: %.2f</string>
+</resources>
